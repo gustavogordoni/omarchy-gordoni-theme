@@ -14,7 +14,7 @@
 
 #window > #box,
 #box {
-  background: alpha(@background, 0.5);
+  background: alpha(@background, 0.8);
   color: @text;
   border: 2px solid @border;
   border-radius: 10px;
