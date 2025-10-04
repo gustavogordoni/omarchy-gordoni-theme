@@ -20,14 +20,22 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 
 ## Prévia
 
-![Gordoni 3](screenshots/3.png)
-![Gordoni 4](screenshots/4.png)
-![Gordoni 5](screenshots/5.png)
-![Gordoni 8](screenshots/8.png)
-![Gordoni 9](screenshots/9.png)
-![Gordoni 10](screenshots/10.png)
-![Gordoni 11](screenshots/11.png)
-![Gordoni 12](screenshots/12.png)
+![Gordoni 3](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/3.png)
+![Gordoni 9](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/9.png)
+
+<details>
+<summary><strong>Veja mais</strong></summary>
+
+<br>
+
+![Gordoni 4](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/4.png)
+![Gordoni 5](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/5.png)
+![Gordoni 8](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/8.png)
+![Gordoni 10](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/10.png)
+![Gordoni 11](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/11.png)
+![Gordoni 12](https://github.com/gustavogordoni/omarchy-gordoni-theme/blob/main/screenshots/12.png)
+
+</details>
 
 ---
 
