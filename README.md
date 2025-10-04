@@ -25,7 +25,6 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 ![Gordoni 10](screenshots/10.png)
 ![Gordoni 11](screenshots/11.png)
 ![Gordoni 12](screenshots/12.png)
-![Gordoni 14](screenshots/14.png)
 
 ---
 
