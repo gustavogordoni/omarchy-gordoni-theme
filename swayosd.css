@@ -1,5 +1,35 @@
-@define-color background-color #1a1732;
-@define-color border-color #b9a9e0;
-@define-color label #a18fff;
-@define-color image #a18fff;
-@define-color progress #a18fff;
+@define-color background-color #262626;
+@define-color border-color     #a260f1;
+@define-color label            #a260f1;
+@define-color image            #a260f1;
+@define-color progress        #a260f1;
+
+window {
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: none;
+}
+
+.osd,
+#osd,
+osd {
+  background-color: alpha(@background-color, 0.9);
+  border: 2px solid @border-color;
+  border-radius: 10px;
+  box-shadow: none;
+}
+
+image {
+  color: @image;
+  -gtk-icon-size: 48px;
+  margin: 0 16px 0 0;
+}
+
+label {
+  color: @label;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+}
