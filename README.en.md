@@ -1,6 +1,6 @@
 # Gordoni Theme
 
-A custom theme for **Omarchy**, created by combining features from other themes I liked.
+A custom theme for **[Omarchy](https://omarchy.org)**, created by combining features from other themes I liked.
 The idea is simple: take useful elements from different themes, adapt them to my taste, and share them with anyone who might enjoy it.
 
 [Versão em Português](README.md)
