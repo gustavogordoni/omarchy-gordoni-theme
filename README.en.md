@@ -3,6 +3,9 @@
 A custom theme for **[Omarchy](https://omarchy.org)**, created by combining features from other themes I liked.
 The idea is simple: take useful elements from different themes, adapt them to my taste, and share them with anyone who might enjoy it.
 
+> **Also check out:**
+> * My settings for [Omarchy](https://github.com/gustavogordoni/dotfiles/).
+
 [Versão em Português](README.md)
 
 ---
