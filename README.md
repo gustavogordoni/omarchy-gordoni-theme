@@ -4,7 +4,8 @@ Um tema personalizado para **[Omarchy](https://omarchy.org)**, criado a partir d
 A ideia é simples: aproveitar recursos de outros temas, adaptar ao meu gosto e compartilhar com alguém que possa curtir.
 
 > **Confira também:**
-> * Minhas configurações para o [Omarchy](https://github.com/gustavogordoni/dotfiles/).
+>
+> - Minhas configurações para o [Omarchy](https://github.com/gustavogordoni/dotfiles/).
 
 [English Version](README.en.md)
 
@@ -37,11 +38,22 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 
 </details>
 
+<details>
+<summary><strong>Wallpapers</strong></summary>
+
+<br>
+
+![Backgrounds 1](./backgrounds//0-matte-black.jpg)
+![Backgrounds 2](./backgrounds//omarchy-wp1.webp)
+![Backgrounds 3](./backgrounds//omarchy-wp2.webp)
+
+</details>
+
 ---
 
 ## Créditos
 
 Este tema foi inspirado e desenvolvido a partir de recursos presentes nos temas:
 
-* [Ayaka Theme](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
-* [Void Theme](https://github.com/vyrx-dev/omarchy-void-theme.git)
+- [Ayaka Theme](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
+- [Void Theme](https://github.com/vyrx-dev/omarchy-void-theme.git)
