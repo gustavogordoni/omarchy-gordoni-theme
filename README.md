@@ -46,6 +46,8 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 ![Backgrounds 1](./backgrounds//0-matte-black.jpg)
 ![Backgrounds 2](./backgrounds//omarchy-wp1.webp)
 ![Backgrounds 3](./backgrounds//omarchy-wp2.webp)
+![Backgrounds 4](./backgrounds//omarchy-wp3.png)
+![Backgrounds 5](./backgrounds//omarchy-wp4.webp)
 
 </details>
 
