@@ -19,7 +19,13 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 ---
 
 ## Preview
-![Screensaver](./screenshots/screensaver.gif)
+
+<div align="center">
+
+![Screensaver](./screenshots/screensaver.gif)'
+
+</div>
+
 ![Gordoni 3](./screenshots/3.png)
 ![Gordoni 9](./screenshots/9.png)
 ![Hyprlock](./screenshots/hyprlock.png)
