@@ -22,7 +22,7 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 
 <div align="center">
 
-![Screensaver](./screenshots/screensaver.gif)'
+![Screensaver](./screenshots/screensaver.gif)
 
 </div>
 
