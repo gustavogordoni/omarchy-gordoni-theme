@@ -21,7 +21,8 @@
 
 /* Selected Item Styling */
 child:selected {
-  border-radius: 8px;
+  /* border-radius: 8px; */
+  border-radius: 18px;
   background-color: mix(black, @background, 0.875);
   transition: all 0.15s ease-out;
   transition: background-color 0s ease-out;
