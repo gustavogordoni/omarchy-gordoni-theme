@@ -49,11 +49,14 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 
 <br>
 
-![Backgrounds 1](./backgrounds//0-matte-black.jpg)
-![Backgrounds 2](./backgrounds//omarchy-wp1.webp)
-![Backgrounds 3](./backgrounds//omarchy-wp2.webp)
-![Backgrounds 4](./backgrounds//omarchy-wp3.png)
-![Backgrounds 5](./backgrounds//omarchy-wp4.webp)
+![Backgrounds 1](./backgrounds/0-matte-black.jpg)
+![Backgrounds 2](./backgrounds/1-everpuccin-astro.png)
+![Backgrounds 3](./backgrounds/2-abstract-colors.jpg)
+![Backgrounds 4](./backgrounds/3-abstract-darkhole.png)
+![Backgrounds 5](./backgrounds/4-omarchy-wp1.webp)
+![Backgrounds 5](./backgrounds/5-omarchy-wp2.webp)
+![Backgrounds 5](./backgrounds/6-omarchy-wp3.png)
+![Backgrounds 5](./backgrounds/7-omarchy-wp4.webp)
 
 </details>
 
@@ -63,5 +66,9 @@ omarchy-theme-install https://github.com/gustavogordoni/omarchy-gordoni-theme
 
 This theme was inspired and developed using features from:
 
-* [Ayaka Theme](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
-* [Void Theme](https://github.com/vyrx-dev/omarchy-void-theme.git)
+- [Ayaka](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
+- [Void](https://github.com/vyrx-dev/omarchy-void-theme.git)
+- [Ayaka](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
+- [Void](https://github.com/vyrx-dev/omarchy-void-theme.git)
+- [Pandora](https://github.com/imbypass/omarchy-pandora-theme)
+- [Everpuccin](https://github.com/imbypass/omarchy-everpuccin-theme)
