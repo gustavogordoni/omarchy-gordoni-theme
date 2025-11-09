@@ -68,7 +68,5 @@ This theme was inspired and developed using features from:
 
 - [Ayaka](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
 - [Void](https://github.com/vyrx-dev/omarchy-void-theme.git)
-- [Ayaka](https://github.com/abhijeet-swami/omarchy-ayaka-theme)
-- [Void](https://github.com/vyrx-dev/omarchy-void-theme.git)
 - [Pandora](https://github.com/imbypass/omarchy-pandora-theme)
 - [Everpuccin](https://github.com/imbypass/omarchy-everpuccin-theme)
